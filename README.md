@@ -1,6 +1,6 @@
 # If you use this software in your publications, we kindly ask you to consider citing this work.
 
-This is an editable Python file. To download the executable, check here: [insert link] or contact the author.
+This is an editable Python file. To download the executable, check here: [(https://drive.google.com/drive/folders/1TjpILuU1iJKzM-O5ONXmrXlGx29T_HsG?usp=sharing)] or contact the author.
 
 
 
