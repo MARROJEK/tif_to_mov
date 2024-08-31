@@ -103,6 +103,7 @@ For support or inquiries, please contact:
 License
 -------
 This project is licensed under the GNU 3.0 License. 
+
 Acknowledgments
 ---------------
 - Tkinter for the GUI framework
