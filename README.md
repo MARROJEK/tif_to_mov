@@ -58,7 +58,10 @@ If processing a single folder, the MOV file will be named using the base name of
 If processing a parent folder containing subfolders, each subfolder's MOV file will include the base name of the parent folder and the relative path of the subfolder. Example:
 - **Parent Folder**: C:\Images\ParentFolder
 - **Subfolder**: Subfolder1
+- **Scale Factor**: 2x
 - **Output MOV File**: ParentFolder_Subfolder1_resized_2x_video.mov
+- **FPS**: 100
+
 
 Example
 -------
@@ -73,7 +76,7 @@ Example
         └── image4.tif
 
 3. **Processing Result**:
-    Two MOV files will be created:
+    Two MOV 100FPS files will be created:
     - FolderA_resized_2x_video.mov
     - FolderB_resized_2x_video.mov
 
