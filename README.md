@@ -4,8 +4,7 @@ This is an editable Python file. To download the executable, check here: [insert
 
 
 
-# TIFF to MOV ConverterIf you use this software in your publications, we kindly ask you to consider citing this work.
-TIFF to MOV Converter
+# TIFF to MOV Converter
 =====================
 
 **TIFF to MOV Converter** is a Python-based tool for converting TIFF images into MOV video files. It supports image resizing and allows you to specify the frames per second (FPS) for the output video. The tool features a user-friendly graphical interface built with Tkinter.
