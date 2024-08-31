@@ -67,11 +67,12 @@ Example
     ├── FolderA\
     │   ├── image1.tif
     │   └── image2.tif
+
     └── FolderB\
         ├── image3.tif
         └── image4.tif
 
-2. **Processing Result**:
+3. **Processing Result**:
     Two MOV files will be created:
     - FolderA_resized_2x_video.mov
     - FolderB_resized_2x_video.mov
