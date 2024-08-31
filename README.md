@@ -19,8 +19,8 @@ Features
 
 
 ### Prerequisites
-To run the Python script directly, ensure you have Python 3.x installed. Install the required dependencies with:
-    pip install -r requirements.txt
+To run the Python script directly, ensure you have Python 3.x installed. 
+
 
 Usage
 -----
