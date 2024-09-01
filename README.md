@@ -32,7 +32,7 @@ Usage
 ### Configuring the Application
 1. **Select Parent Folder**:
     - Click the "Browse" button next to "Select parent folder".
-    - Choose a folder containing TIFF images. The tool will process TIFF files in this folder and its subfolders.
+    - Choose a folder containing TIF images or a folder with multiple subfolders containing TIF files. Recursive search is supported. The tool will process all TIF files in the selected folder and its subfolders.
 
 2. **Select Output Folder**:
     - Click the "Browse" button next to "Select output folder".
